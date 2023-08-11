@@ -1,4 +1,4 @@
-# Kyunghoon Lee
+# this was a school project
 
 def menu_instructions():
     # Print title menu and instructions for player
