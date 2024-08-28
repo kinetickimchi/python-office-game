@@ -1,4 +1,4 @@
-# this was a school project
+# IT-140
 
 def menu_instructions():
     # Print title menu and instructions for player
